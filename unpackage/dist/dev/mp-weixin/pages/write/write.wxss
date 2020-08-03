@@ -1,0 +1,128 @@
+.wrap.data-v-31306246 {
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  /* 标题 */
+  /* 内容展示区 */
+  /* 输入区 */
+}
+.wrap .write_title.data-v-31306246 {
+  height: 50px;
+  border-bottom: 1px solid #eee;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.wrap .artList.data-v-31306246 {
+  margin-top: 20px;
+}
+.wrap .artList .item.data-v-31306246 {
+  width: 100%;
+  text-align: center;
+}
+.wrap .artList .item textarea.data-v-31306246 {
+  width: 100%;
+  height: 50px;
+}
+.wrap .artList .item .deleteText.data-v-31306246 {
+  color: green;
+}
+.wrap form.data-v-31306246 {
+  height: 80px;
+  margin-top: 20px;
+}
+.wrap form .inputArea.data-v-31306246 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  height: 100%;
+  font-size: 14px;
+}
+.wrap form .inputArea .addImg.data-v-31306246 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 80px;
+  width: 80px;
+  background-color: #F8F8F8;
+  color: #666;
+}
+.wrap form .inputArea .addText.data-v-31306246 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+.wrap form .inputArea .addText textarea.data-v-31306246 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 5px 0 0 5px;
+}
+.wrap form .inputArea .addText button.data-v-31306246 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  width: 50px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 0;
+  font-size: 14px;
+}
+.wrap .art-cate.data-v-31306246 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-top: 20px;
+  color: #333;
+}
+.wrap .submitNow.data-v-31306246 {
+  margin-top: 10px;
+}
+

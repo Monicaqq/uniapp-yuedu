@@ -1,0 +1,49 @@
+
+.myface.data-v-0be17cc6 {
+	width: 88px;
+	height: 88px;
+	border: 5px solid f1f2f3;
+	border-radius: 100%;
+	margin: 15px auto;
+}
+.myface image.data-v-0be17cc6 {
+	width: 100%;
+	border-radius: 100%;
+}
+.myart-list.data-v-0be17cc6 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	width: 100%;
+	margin: 8px 0;
+	overflow: hidden;
+	border-bottom: 1px dashed #d7d8d9;
+}
+.myart-list .title.data-v-0be17cc6 {
+	line-height: 2em;
+	width: 100%;
+}
+.myart-list .btns.data-v-0be17cc6 {
+	line-height: 2em;
+	width: 100%;
+}
+.myart-list .btns view.data-v-0be17cc6 {
+	float: right;
+	padding: 0 6px;
+	margin: 0 5px;
+	color: #00b26a;
+}
+.myart-list .btns view.data-v-0be17cc6:last-child {
+	color: #f76260;
+}
+.loadMore.data-v-0be17cc6 {
+	width: 100%;
+	padding: 8px 0;
+	text-align: center;
+	color: #ccc;
+}
+

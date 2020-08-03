@@ -1,0 +1,53 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "",
+  "appid": "wxdcd14f79412dcb13",
+  "projectname": "uniappShop",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": 0,
+      "list": [
+        {
+          "name": "index",
+          "id": 0,
+          "pathName": "pages/index/index"
+        },
+        {
+          "name": "write",
+          "id": 1,
+          "pathName": "pages/write/write"
+        },
+        {
+          "name": "my",
+          "id": 2,
+          "pathName": "pages/my/my"
+        },
+        {
+          "name": "login",
+          "id": 3,
+          "pathName": "pages/login/login"
+        }
+      ]
+    }
+  }
+}
